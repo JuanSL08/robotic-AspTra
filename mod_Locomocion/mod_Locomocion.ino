@@ -9,6 +9,7 @@ int VELOCIDAD;      // variable para almacenar valor de velocidad
 int pinLedRojo = 4;   // LED RED: pin voltage a pin digital 4
 int pinLedVerde = 2;  // LED GREEN: pin voltage a pin digital 4
 
+
 void setup(){
   pinMode(IN1, OUTPUT);   // IN1 como salida  
   pinMode(IN2, OUTPUT);   // IN2 como salida
